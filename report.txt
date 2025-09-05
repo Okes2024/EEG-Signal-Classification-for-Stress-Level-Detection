@@ -1,0 +1,17 @@
+EEG Stress Classification (Synthetic)
+========================================
+CV Accuracy (mean ± std): 1.000 ± 0.000
+
+Classification Report (Test):
+              precision    recall  f1-score   support
+
+        Calm       1.00      1.00      1.00        75
+      Stress       1.00      1.00      1.00        75
+
+    accuracy                           1.00       150
+   macro avg       1.00      1.00      1.00       150
+weighted avg       1.00      1.00      1.00       150
+
+Confusion Matrix:
+[[75  0]
+ [ 0 75]]
